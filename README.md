@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/OPaivaHeitor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OPaivaHeitor&show_icons=false&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPaivaHeitor&layout=compact&langs_count=7&theme=prussian"/>
+</div>
+  
